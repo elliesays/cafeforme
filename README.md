@@ -139,7 +139,7 @@ PW : 6400
 
 ## 헥사고날 아키텍처 다이어그램 도출
     
-![image](https://user-images.githubusercontent.com/28293389/81763871-3683af00-950b-11ea-96af-5ac25a5631a4.png)
+![image](https://user-images.githubusercontent.com/57605719/81788116-ff2df600-953c-11ea-8cc1-491964b361f0.png)
 
 # 구현:
 
