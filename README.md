@@ -137,10 +137,6 @@ PW : 6400
 ### Customer Management 추가된 3차 모형
 ![image](https://user-images.githubusercontent.com/57605719/81787515-259f6180-953c-11ea-9437-432876bd42b4.png)
 
-## 업무 프로세스 흐름도
-![image](https://user-images.githubusercontent.com/28293389/81764601-e4dc2400-950c-11ea-9898-050e8ff02a71.png)
-
-
 ## 헥사고날 아키텍처 다이어그램 도출
     
 ![image](https://user-images.githubusercontent.com/28293389/81763871-3683af00-950b-11ea-96af-5ac25a5631a4.png)
