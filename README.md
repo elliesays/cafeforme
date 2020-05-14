@@ -40,7 +40,7 @@ PW : 6400
 # 조직
 - 고객 : 고객 주문 오류를 최소화 한다. ( Core )
 - 매장 : 접수 된 주문에 대해 오류를 최소화 한다. ( Supporting )
-- 고객관리 : 주문 상태에 대해 고객에게 정확한 알람을 제공한다. ( 외주 Supporting )
+- 고객관리 : 회원정보에 대한 오류를 최소화 한다. ( Supporting )
 
 # 서비스 시나리오
 
@@ -135,7 +135,7 @@ PW : 6400
     1. 고객은 주문 진행 상태를 SMS로 확인할 수 있어야 한다.  Event driven
 
 ### Customer Management 추가된 3차 모형
-![image](https://user-images.githubusercontent.com/57605719/81787515-259f6180-953c-11ea-9437-432876bd42b4.png)
+![image](https://user-images.githubusercontent.com/57605719/81895837-298bbc00-95ee-11ea-8bdf-ecc72368a962.png)
 
 ## 헥사고날 아키텍처 다이어그램 도출
     
